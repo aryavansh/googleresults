@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"border-bt",
+				"border-bottom-color"
+			],
+			[
+				"border-bott",
+				"border-bottom-right-radius"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"text-deco",
+				"text-decoration-style"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text-st",
+				"text-decoration-style"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"gr",
+				"group"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7121,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/sites/odinproj/googleresults/style.css",
+		"/C/sites/odinproj/googleresults/README.md",
+		"/C/sites/odinproj/googlehome/styles/style.css",
+		"/C/sites/odinproj/googlehome/index.html",
+		"/C/sites/odinproj/googlehome/README.md",
+		"/C/Sites/odinproj/htmlsite/google-homepage/styles/style.css",
+		"/C/Sites/odinproj/htmlsite/google-homepage/index.html",
+		"/C/Program Files/Sublime Text 3/emmet-sublime-master/README.md",
+		"/C/Users/as1/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Sites/odinproj/htmlsite/google-homepage/README.md",
+		"/C/sites/project/git_test/README.md",
+		"/C/sites/railsbridge/test_app/Gemfile",
+		"/C/sites/railsbridge/test_app/config/routes.rb"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n\t",
+			"width",
+			"rbotoptions",
+			"restext",
+			"All",
+			"3px",
+			" {",
+			"14px",
+			"1px",
+			"</",
+			"*/\n",
+			"}",
+			"400px",
+			";\n",
+			");\n",
+			";\n",
+			"\n.",
+			";\n",
+			"150px",
+			";\n",
+			"\n}",
+			"\n\t",
+			";\n",
+			"About",
+			"c1c1c1",
+			"666",
+			"222",
+			"111",
+			"auto",
+			"Lucky",
+			"100px",
+			"serif",
+			"USer",
+			"15px",
+			"right",
+			"\tpadding-top: 109px;\n\tmargin: 89px auto 0 auto;",
+			";\n",
+			"auto",
+			";\n",
+			"\n\t",
+			"width",
+			"auto",
+			"png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1008,
+								1008
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.720588235294,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "a.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
