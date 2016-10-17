@@ -11,13 +11,13 @@ body {
 }
 
 .topbar img {
-	position: fixed;
+	position: absolute;
 	top: 15px;
 	left: 15px;
 }
 
 .box {
-	position: fixed;
+	position: absolute;
 	top: 9px;
 	left: 126px;
 	border: 1px solid #d9d9d9;
@@ -42,14 +42,14 @@ body {
 }
 
 #mic {
-	position: fixed;
+	position: absolute;
 	display: inline-block;
 	left: 688px;
 	top: 19px;
 }
 
 #search {
-	position: fixed;
+	position: absolute;
 	display: inline-block;
 	left: 715px;
 	top: 9px;
@@ -66,7 +66,7 @@ body {
 }
 
 #box {
-	position: fixed;
+	position: absolute;
 	display: inline-block;
 	height: 16px;
 	width: 16px;
@@ -87,7 +87,7 @@ body {
 }
 
 #bell {
-	position: fixed;
+	position: absolute;
 	display: inline-block;
 	height: 20px;
 	width: 20px;
@@ -111,7 +111,7 @@ body {
 }
 
 #user {
-	position: fixed;
+	position: absolute;
 	display: inline-block;
 	right: 61px;
 	top: -1px;
@@ -292,3 +292,114 @@ body {
 	line-height: 43px;
 
 }
+
+.result {
+	display: block;
+	position: absolute;
+	width: 600px;
+	left: 136px;
+	top: 172px;
+}
+
+.restitle a{
+	text-decoration: none;
+	color: #1a0dab;
+	font-size: 18px;
+}
+
+.sitetitle {
+	color: #006621;
+	font-size: 14px;
+}
+
+#rdownarr {
+	position: relative;
+	display: inline;
+	top: 200px;
+  	border-left: 4px solid transparent;
+  	border-right: 4px solid transparent;
+    border-top: 5px solid #006621;
+	width: 0px;
+	height: 0px;
+	top: 11px;
+	left: 5px;
+}
+
+.date {
+	position: relative;
+	display: inline;
+	color: #808080;
+	font-size: small;
+}
+
+.restext {
+	position: relative;
+	display: inline;
+	color: #545454;
+	font-size: small;
+}
+
+.separator {
+	height: 24px;
+}
+
+.related {
+	position: absolute;
+	display: block;
+	top: 1135px;
+	left: 136px;
+	width: 600px;
+	height: 150px;
+	padding-top: 15px;
+	padding-left: 8px;
+	border-top: 1px	solid #ebebeb;
+	border-bottom: 1px solid #ebebeb;
+	color: #808080;
+	font-size: 18px;
+}
+
+.related a {
+	text-decoration: none;
+	font-size: 13px;
+	font-weight: bold;
+	color: #1a0dab;
+}
+#lbotoptions {
+	position: absolute;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 220px;
+	height: 80px;
+	top: 40px;
+}
+
+#lbotoptions li {
+line-height:1.5em;
+display: block;
+}
+
+#rbotoptions {
+position: absolute;
+list-style-type: none;
+margin: 0;
+padding: 0;
+left: 236px;
+top: 40px;
+width: 50%;
+height: 100px;
+}
+
+#rbotoptions li {
+line-height:1.5em;
+display: block;
+}
+
+.pagecount {
+	position: relative;
+}
+
+.footer {
+	position: relative;
+}
+
