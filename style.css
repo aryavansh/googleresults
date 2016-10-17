@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
+	font-family: arial, sans-serif;
 }
 
 .topbar {
@@ -277,4 +278,17 @@ body {
 	top:5px;
 	left: 27px;
 	opacity: 0.7;
+}
+
+.resultcount {
+	display: block;
+	position: absolute;
+	width: 232px;
+	height: 43px;
+	left: 120px;
+	padding: 0 8px 0 16px;
+	font-size: 13px;
+	color: #808080;
+	line-height: 43px;
+
 }
